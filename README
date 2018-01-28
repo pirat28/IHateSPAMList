@@ -10,4 +10,4 @@ URL list for the Pi-Hole
 All domains listed here are from SPAM mails, or unwanted newsletters.
 
 Including also some URL shortener known for massive SPAM URLs
-(Add them to Pi-Hole white list if you need them)
+(add them to the Pi-Hole white list if you need them)
