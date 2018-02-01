@@ -233,6 +233,7 @@ cv.genussgourmet.net
 www.gewara.online
 de.germanypharm.group
 tipps.gutscheinbox.eu
+de.germanypills.group
 
 # h
 
@@ -345,7 +346,6 @@ www.multilotto.com
 www.mailsde.com
 molertak.com
 netwerk24.media24-epos.com
-asset.md02-link01.eu
 vip.meetgls.com
 email.macdvdripperpro.com
 myetherwallet.pl
@@ -359,9 +359,7 @@ www.maidstomeasure.com
 www.monsus.vip
 cv.mycheck.de
 cv.motormagazin.com
-asset.md02-link01.eu
 mymomichelle.com
-
 
 # n
 
@@ -555,6 +553,7 @@ kukehdadyl.yahooservicejoin10.eu
 nvgzmid.yahooservicejoin11.eu
 yourxneeds.com
 post.yourhead.com
+your-luck.host
 
 # z
 
