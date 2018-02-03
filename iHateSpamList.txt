@@ -20,6 +20,7 @@
 
 bit.ly
 idug.net
+goo.gl
 
 # Other domains
 
@@ -106,6 +107,7 @@ vip.bitcoinspring.top
 beratung-darlehen.com
 blocksinvest.top
 vip.boominvestment.top
+email.blackmagicdesign.com
 
 # c
 
@@ -427,6 +429,7 @@ sy06.ravadata.stream
 sy07.ravadata.stream
 sy08.ravadata.stream
 www.recklenkamp.com
+rtjsdertn.com
 
 # s
 
@@ -515,6 +518,7 @@ mh07.vivobyte.stream
 mh08.vivobyte.stream
 vielzahl.bid
 vol-france.pro
+volfrance.pro
 
 # w
 
