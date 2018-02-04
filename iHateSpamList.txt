@@ -245,6 +245,7 @@ herbaltabsinc.trade
 x7.horfesee.com
 himua.com
 www.harboursidechurch.org
+hier-wird-geholfen.press
 
 # i
 
@@ -519,6 +520,7 @@ mh08.vivobyte.stream
 vielzahl.bid
 vol-france.pro
 volfrance.pro
+mailings.versandbestaetigung.eu
 
 # w
 
