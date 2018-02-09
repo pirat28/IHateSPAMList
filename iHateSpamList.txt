@@ -65,6 +65,7 @@ actufidelite.club
 aktuelle-sieger.host
 de.apotekeum.group
 angebot-jetzt.host
+apot.apotheke.group
 
 # b
 
@@ -212,6 +213,7 @@ www.finger-boarding.ru
 m.falllove.info
 cv.fly24.com
 www.find-a-car.info
+www.fwdme.info
 
 # g 
 
@@ -587,6 +589,7 @@ todayassurance.club
 travailimportant.info
 teezx.com
 email-telekom.de
+tradexl.info
 
 # u
 
