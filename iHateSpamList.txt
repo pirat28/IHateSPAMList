@@ -184,6 +184,7 @@ ijxzyfqngi.clubtopweb.ru
 clubtopweb.ru
 www.clubtopweb.ru
 ceruleexchange.gdn
+cerulemart.gdn
 
 # d
 
@@ -197,6 +198,7 @@ de.apotekem.group
 de.devpol.group
 directionclienthel.review
 de2.apotheke.ltd
+directinfoplus.ru
 
 # e
 
