@@ -1,29 +1,29 @@
-##################################
+######################################
 ###
 ### I Hate SPAM List
 ### by: Pirat28
 ###
 ### URL list for the Pi-Hole 
 ### 
-##################################
+######################################
 
-##################################
+######################################
 ###
 ### All domains listed here are 
 ### from SPAM mails, or unwanted 
 ### newsletters.
 ###
-##################################
+######################################
 
 # URL shortener known for massive SPAM
-# Add them to white list if you need them
+# Add them to Pi-Holes Whitelist if 
+# you need them
 
 bit.ly
 idug.net
 goo.gl
 
 # Other domains
-
 
 # 0-9
 
@@ -185,6 +185,7 @@ clubtopweb.ru
 www.clubtopweb.ru
 ceruleexchange.gdn
 cerulemart.gdn
+mta63.client-service.online
 
 # d
 
@@ -203,7 +204,6 @@ directinfoplus.ru
 # e
 
 click.email-reedexpo.com
-email-telekom.de
 cl.s7.exct.net
 www.esms-ferel.fr
 test.e-tuition.lk
@@ -217,6 +217,7 @@ www.einatfood.co.il
 link.email-winzip.com
 de.etheriuminworld.me
 emsa-africa.com
+link.email-winzip.com
 
 # f
 
@@ -467,6 +468,7 @@ www.monsus.vip
 cv.mycheck.de
 cv.motormagazin.com
 mymomichelle.com
+moerd.org
 
 # n
 
@@ -609,7 +611,6 @@ pharm.ticketlink.me
 todayassurance.club
 travailimportant.info
 teezx.com
-email-telekom.de
 tradexl.info
 tradetopsale.ru
 
