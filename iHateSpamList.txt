@@ -589,6 +589,8 @@ schaden-verringern.host
 socialtips.org
 post.spmailte.com
 promio.swissad.net
+u2382462.ct.sendgrid.net
+ct.sendgrid.net
 
 # t
 
