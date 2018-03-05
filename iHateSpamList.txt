@@ -66,6 +66,7 @@ aktuelle-sieger.host
 de.apotekeum.group
 angebot-jetzt.host
 apot.apotheke.group
+aestamuni.com
 
 # b
 
@@ -650,6 +651,7 @@ vielzahl.bid
 vol-france.pro
 volfrance.pro
 mailings.versandbestaetigung.eu
+vergleichssieger.press
 
 # w
 
