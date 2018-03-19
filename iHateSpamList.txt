@@ -15,16 +15,6 @@
 ###
 ######################################
 
-# URL shortener known for massive SPAM
-# Add them to Pi-Holes Whitelist if 
-# you need them
-
-bit.ly
-idug.net
-goo.gl
-
-# Other domains
-
 # 0-9
 
 3d-infitec.ru
