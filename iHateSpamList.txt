@@ -60,6 +60,8 @@ apot.apotheke.group
 aestamuni.com
 vergleich.angebot2018.science
 www.asiainsurancereview.com
+www.altreviste.com
+altreviste.com
 
 # b
 
@@ -263,6 +265,7 @@ tipps.gutscheinbox.eu
 de.germanypills.group
 gluecklich-leben.online
 go.euserv.org
+mailings.gutscheinbox01.eu
 
 # h
 
@@ -681,6 +684,35 @@ mailings.versandbestaetigung.eu
 vergleichssieger.press
 volfrance.club
 kom1.volfrance.club
+kom2.volfrance.club
+kom3.volfrance.club
+kom4.volfrance.club
+kom5.volfrance.club
+kom6.volfrance.club
+kom7.volfrance.club
+kom8.volfrance.club
+kom9.volfrance.club
+kom10.volfrance.club
+kom11.volfrance.club
+kom12.volfrance.club
+kom13.volfrance.club
+kom14.volfrance.club
+kom15.volfrance.club
+kom16.volfrance.club
+kom17.volfrance.club
+kom18.volfrance.club
+kom19.volfrance.club
+kom20.volfrance.club
+kom21.volfrance.club
+kom22.volfrance.club
+kom23.volfrance.club
+kom24.volfrance.club
+kom25.volfrance.club
+kom26.volfrance.club
+kom27.volfrance.club
+kom28.volfrance.club
+kom29.volfrance.club
+kom30.volfrance.club
 
 # w
 
