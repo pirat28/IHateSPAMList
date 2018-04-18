@@ -62,6 +62,8 @@ vergleich.angebot2018.science
 www.asiainsurancereview.com
 www.altreviste.com
 altreviste.com
+view.goview.accenture.com
+click.goview.accenture.com
 
 # b
 
