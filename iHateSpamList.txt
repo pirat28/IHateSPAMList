@@ -240,6 +240,7 @@ www.fwdme.info
 freshwebportal.ru
 freshhomez.com
 mailings.freitagsbox.eu
+www.fit-nass.com
 
 # g 
 
@@ -268,6 +269,8 @@ de.germanypills.group
 gluecklich-leben.online
 go.euserv.org
 mailings.gutscheinbox01.eu
+view.goview.accenture.com
+click.goview.accenture.com
 
 # h
 
