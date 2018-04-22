@@ -226,6 +226,7 @@ emsa-africa.com
 link.email-winzip.com
 go.euserv.org
 bbd05.easyurl.net
+reports.equitystory.com
 
 # f
 
@@ -285,6 +286,8 @@ hier-wird-geholfen.press
 hotwebplus.ru
 hypnosisbootcamp.com
 hello.heroku.com
+www.hannover-re.com
+hypnosisbootcamp.com
 
 # i
 
