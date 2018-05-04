@@ -289,6 +289,7 @@ hello.heroku.com
 www.hannover-re.com
 hypnosisbootcamp.com
 mailings.hier-kommt-post.eu
+himua.com
 
 # i
 
@@ -633,6 +634,7 @@ promio.swissad.net
 u2382462.ct.sendgrid.net
 ct.sendgrid.net
 summersaler.com
+xmail.square-enix.com
 
 # t
 
