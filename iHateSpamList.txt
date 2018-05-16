@@ -214,6 +214,7 @@ discount2018.today
 kxm04.dlzmtarget.com
 dulasto.club
 denospa.club
+doyou.club
 
 # e
 
@@ -281,6 +282,7 @@ go.euserv.org
 mailings.gutscheinbox01.eu
 view.goview.accenture.com
 click.goview.accenture.com
+glatosmada.com
 
 # h
 
