@@ -64,6 +64,7 @@ www.altreviste.com
 altreviste.com
 view.goview.accenture.com
 click.goview.accenture.com
+atiranyit.hu
 
 # b
 
@@ -120,6 +121,8 @@ www.boombuz.com
 www.boombuz.eu
 blebarti.club
 budisoma.club
+bestlovers.eu
+www.bestlovers.eu
 
 # c
 
@@ -300,6 +303,7 @@ www.hannover-re.com
 hypnosisbootcamp.com
 mailings.hier-kommt-post.eu
 himua.com
+hidereferrer.net
 
 # i
 
