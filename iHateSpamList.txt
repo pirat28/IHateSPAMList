@@ -123,6 +123,7 @@ blebarti.club
 budisoma.club
 bestlovers.eu
 www.bestlovers.eu
+battlemerchant.com
 
 # c
 
@@ -196,6 +197,7 @@ cerulemart.gdn
 mta63.client-service.online
 compared4you.press
 cutzz.info
+cars2018.press
 
 # d
 
@@ -609,6 +611,8 @@ www.recklenkamp.com
 rtjsdertn.com
 www.rhondasvacations.com
 raikov.com
+redirect.me
+www.redirect.me
 
 # s
 
