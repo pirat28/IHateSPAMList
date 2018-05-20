@@ -526,6 +526,7 @@ sf05.mxestyler.com
 sf06.mxestyler.com
 sf07.mxestyler.com
 sf08.mxestyler.com
+asset.md01-link10.eu
 asset.md04-link10.eu
 maldos24.club
 mandose.club
