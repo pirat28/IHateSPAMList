@@ -65,7 +65,8 @@ altreviste.com
 view.goview.accenture.com
 click.goview.accenture.com
 atiranyit.hu
-
+anonym.es
+www.anonym.es
 # b
 
 links.bbrosmailer.com
@@ -221,6 +222,10 @@ dulasto.club
 denospa.club
 doyou.club
 duligateso.com
+dereferer.me
+dereferer.org
+www.dereferer.me
+www.dereferer.org
 
 # e
 
@@ -258,6 +263,7 @@ freshwebportal.ru
 freshhomez.com
 mailings.freitagsbox.eu
 www.fit-nass.com
+fkkjfhpe.com
 
 # g 
 
@@ -307,6 +313,7 @@ hypnosisbootcamp.com
 mailings.hier-kommt-post.eu
 himua.com
 hidereferrer.net
+www.hidereferrer.net
 
 # i
 
