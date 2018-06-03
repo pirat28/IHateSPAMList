@@ -68,6 +68,7 @@ atiranyit.hu
 www.atiranyit.hu
 anonym.es
 www.anonym.es
+alhayah.com.sa
 
 # b
 
@@ -711,6 +712,7 @@ vip.treeinvest.info
 www.toyoco.online
 support.teleblend.com
 topperoffer.com
+tosd.club
 
 # u
 
