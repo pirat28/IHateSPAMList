@@ -70,6 +70,7 @@ anonym.es
 www.anonym.es
 alhayah.com.sa
 androdora.com
+mailings.angebots-box.de
 
 # b
 
@@ -257,6 +258,7 @@ reports.equitystory.com
 erostame.club
 eyxw.ufgjui.cf
 expireddomainnotice.com
+ertabo.club
 
 # f
 
@@ -600,6 +602,7 @@ mailings.post-eingang.eu
 prodirectinfo.ru
 paradiseracing.com
 pkjodus.com
+blog.powersoft.net.ec
 
 # q
 www.qb5.ru
