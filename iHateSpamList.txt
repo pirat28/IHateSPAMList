@@ -437,7 +437,7 @@ site1a.us4.list-manage5.com
 site1a.us4.list-manage6.com
 site1a.us4.list-manage7.com
 site1a.us4.list-manage8.com
-site1a.us4.list-manage9.com
+site1a.us4.list-manage9.comblog.vorteilswelt.live
 creaceed.us6.list-manage.com
 creaceed.us6.list-manage1.com
 creaceed.us6.list-manage2.com
@@ -799,6 +799,7 @@ kom28.volfrance.club
 kom29.volfrance.club
 kom30.volfrance.club
 demo15.versamall.com
+blog.vorteilswelt.live
 
 # w
 
