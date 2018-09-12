@@ -138,6 +138,14 @@ battlemerchant.com
 www.bdimg.renovepublicidade.com.br
 neuigkeiten.billiger.de
 mailings.chancen-post.eu
+a.bitcoin-es.tk
+b.bitcoin-es.tk
+c.bitcoin-es.tk
+d.bitcoin-es.tk
+a.btcprofit-es.tk
+b.btcprofit-es.tk 
+c.btcprofit-es.tk
+d.btcprofit-es.tk 
 
 # c
 
@@ -506,6 +514,7 @@ reactpresents.us17.list-manage6.com
 reactpresents.us17.list-manage7.com
 reactpresents.us17.list-manage8.com
 reactpresents.us17.list-manage9.com
+list-manage.com
 list-manage1.com
 list-manage2.com
 list-manage3.com
@@ -515,6 +524,16 @@ list-manage6.com
 list-manage7.com
 list-manage8.com
 list-manage9.com
+photomugs.us8.list-manage.com
+photomugs.us8.list-manage1.com 
+photomugs.us8.list-manage2.com 
+photomugs.us8.list-manage3.com 
+photomugs.us8.list-manage4.com 
+photomugs.us8.list-manage5.com 
+photomugs.us8.list-manage6.com 
+photomugs.us8.list-manage7.com 
+photomugs.us8.list-manage8.com 
+photomugs.us8.list-manage0.com 
 lamadel.club
 
 # m
@@ -752,6 +771,9 @@ turlibado.com
 www.thespian.in
 d.top4top.net
 web.tariftest.host
+spartipps.trafficwave.ch
+tutanota.com 
+app.tutanota.com 
 
 # u
 
