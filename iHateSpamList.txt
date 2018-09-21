@@ -222,6 +222,7 @@ cutzz.info
 cars2018.press
 www.clickmybank.com
 clickmybank.com
+news.coupons4u.de
 
 # d
 
@@ -536,6 +537,9 @@ photomugs.us8.list-manage7.com
 photomugs.us8.list-manage8.com 
 photomugs.us8.list-manage0.com 
 lamadel.club
+click.ns2.lnglobal.pl
+ns2.lnglobal.pl
+lnglobal.pl
 
 # m
 
@@ -585,6 +589,8 @@ sf06.mxestyler.com
 sf07.mxestyler.com
 sf08.mxestyler.com
 asset.md01-link10.eu
+asset.md02-link10.eu
+asset.md03-link10.eu
 asset.md04-link10.eu
 maldos24.club
 mandose.club
