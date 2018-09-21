@@ -522,7 +522,7 @@ reactpresents.us17.list-manage6.com
 reactpresents.us17.list-manage7.com
 reactpresents.us17.list-manage8.com
 reactpresents.us17.list-manage9.com
-list-manage.com
+list-manage.comcv2
 list-manage1.com
 list-manage2.com
 list-manage3.com
@@ -573,7 +573,7 @@ netwerk24.media24-epos.com
 vip.meetgls.com
 email.macdvdripperpro.com
 myetherwallet.pl
-mailings.mittwochsbox.eu
+mailings.mittwochsbox.eucv2
 mitplaster.dk
 marketingsharp.com
 mkdecontenidos.com
@@ -662,7 +662,7 @@ paradiseracing.com
 pkjodus.com
 blog.powersoft.net
 bmarleyos.plocv.club
-
+cv2
 # q
 www.qb5.ru
 
@@ -714,7 +714,7 @@ saturn.sendmailen.com
 stat.sendmailen.com
 uranus.sendmailen.com
 pluto.sendmailen.com
-suo.im
+suo.imcv2
 solucaocabos.com.br
 hs01.sftrade.stream
 hs02.sftrade.stream
@@ -877,6 +877,7 @@ webcouldclub.su
 h4g4otuq7.webtrustportal.ru
 links.newsletter.walz.de
 werdopas.com
+cv2.wettercomassets.com
 
 # x
 
@@ -896,7 +897,7 @@ curl.xx101.trade
 yahooservicejoin10.eu
 yahooservicejoin11.eu
 kukehdadyl.yahooservicejoin10.eu
-nvgzmid.yahooservicejoin11.eu
+nvgzmid.yahooservicejoin11.eucv2
 yourxneeds.com
 post.yourhead.com
 your-luck.host
