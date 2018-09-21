@@ -330,6 +330,9 @@ click.goview.accenture.com
 glatosmada.com
 greenworldcity.com
 yarts.goly.club
+vod-ac-mds.glomex.com
+config-vvs.glomex.com
+imthumbs.glomex.com
 player-feedback.v1.glomex.com
 player.glomex.com
 glomex.com
