@@ -280,6 +280,7 @@ expireddomainnotice.com
 ertabo.club
 emailmagics.org
 elyhvo.us
+eservice.emarsys.net
 
 # f
 
@@ -298,6 +299,10 @@ www.fit-nass.com
 fkkjfhpe.com
 www.fbkdate.eu
 fbkdate.eu
+fbs.com
+s.fbs.news
+s.fbs.direct
+net.fairer-beitrag.info
 
 # g 
 
@@ -547,6 +552,7 @@ lamadel.club
 click.ns2.lnglobal.pl
 ns2.lnglobal.pl
 lnglobal.pl
+click.ns1.lnglobal.pl
 
 # m
 
@@ -745,6 +751,7 @@ summersaler.com
 xmail.square-enix.com
 post.spmailtechn.com
 stalkstory.com
+click.email.shopify.com
 
 # t
 
