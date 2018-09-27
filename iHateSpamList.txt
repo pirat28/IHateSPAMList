@@ -253,6 +253,7 @@ www.dereferer.me
 www.dereferer.org
 dimc.40176180.men
 digimie.com
+www.drklein.de
 
 # e
 
@@ -303,6 +304,7 @@ fbs.com
 s.fbs.news
 s.fbs.direct
 net.fairer-beitrag.info
+www.fleetistics.com
 
 # g 
 
@@ -752,6 +754,7 @@ xmail.square-enix.com
 post.spmailtechn.com
 stalkstory.com
 click.email.shopify.com
+link.secret-deals-online.com
 
 # t
 
