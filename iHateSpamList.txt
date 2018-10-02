@@ -557,6 +557,8 @@ click.ns2.lnglobal.pl
 ns2.lnglobal.pl
 lnglobal.pl
 click.ns1.lnglobal.pl
+www.linkprotect.tk
+linkprotect.tk
 
 # m
 
@@ -757,6 +759,7 @@ post.spmailtechn.com
 stalkstory.com
 click.email.shopify.com
 link.secret-deals-online.com
+secure.swiftcover.com
 
 # t
 
