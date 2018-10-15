@@ -818,6 +818,7 @@ spartipps.trafficwave.ch
 tutanota.com 
 app.tutanota.com
 tvproapp.de
+thecryptogenius.site
 
 # u
 
@@ -828,6 +829,8 @@ uk4.ukaccount.tk
 url.rw
 www.url.rw
 www.uptilt.com
+upgm9.club
+r8aj.upgm9.club
 
 # v
 
