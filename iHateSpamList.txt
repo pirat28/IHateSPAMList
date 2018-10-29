@@ -782,6 +782,7 @@ link.secret-deals-online.com
 secure.swiftcover.com
 www.super-schlank.com
 super-schlank.com
+sicherheitsverifikation.host
 
 # t
 
