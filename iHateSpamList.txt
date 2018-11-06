@@ -429,6 +429,8 @@ kv-privat.online
 krutas.com
 khudermunkh.mn
 bote.kv-neu.host
+alt.kvcomparison.online
+kvcomparison.online
 
 # l
 
