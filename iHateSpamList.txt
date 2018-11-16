@@ -15,6 +15,11 @@
 ###
 ######################################
 
+# On this list because used to forward to 
+# unkown websites or URL shortener
+
+click.dictionary.com
+
 # 0-9
 
 3d-infitec.ru
@@ -161,6 +166,9 @@ www2.buy-canabis.tk
 www3.buy-canabis.tk
 www4.buy-canabis.tk
 www5.buy-canabis.tk
+bolxy.club
+city1.bolxy.club
+city2.bolxy.club
 
 # c
 
@@ -834,6 +842,7 @@ thecryptogenius.site
 a1.tariftest.online
 a2.tariftest.online
 tariftest.online
+trystartnow.ru
 
 # u
 
