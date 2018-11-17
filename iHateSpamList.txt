@@ -843,6 +843,7 @@ a1.tariftest.online
 a2.tariftest.online
 tariftest.online
 trystartnow.ru
+portal.tarifwechselhilfe.live
 
 # u
 
