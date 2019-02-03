@@ -278,6 +278,7 @@ www.dereferer.org
 dimc.40176180.men
 digimie.com
 www.drklein.de
+methode1.dollingox.club
 
 # e
 
@@ -748,6 +749,7 @@ raikov.com
 redirect.me
 www.redirect.me
 www.rhodzmarketing.com
+reciz.host
 
 # s
 
@@ -802,6 +804,10 @@ secure.swiftcover.com
 www.super-schlank.com
 super-schlank.com
 sicherheitsverifikation.host
+www.static2cloud.com
+static2cloud.com
+www.swe4trck.com
+swe4trck.com
 
 # t
 
