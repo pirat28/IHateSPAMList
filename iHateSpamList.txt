@@ -171,6 +171,7 @@ city1.bolxy.club
 city2.bolxy.club
 public.best-service.info
 best-service.info
+bestinsurances4u.com
 
 # c
 
