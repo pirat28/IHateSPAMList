@@ -698,6 +698,9 @@ nightmeetsme.com
 nostrpotos.com
 brusage.noroc.club
 www.noseart.org
+enews.thewatchery.com
+www.thewatchery.com
+thewatchery.com
 
 # o
 
@@ -842,6 +845,8 @@ www.static2cloud.com
 static2cloud.com
 www.swe4trck.com
 swe4trck.com
+vqx.sofk.pro
+specialvorjo.fund
 
 # t
 
