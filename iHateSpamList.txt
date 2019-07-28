@@ -91,6 +91,8 @@ acemlnd.com
 www.autour-demaville.com
 actclic.com
 www.actclic.com
+www.anomob.com
+anomob.com
 
 # b
 
@@ -349,6 +351,8 @@ s.fbs.news
 s.fbs.direct
 net.fairer-beitrag.info
 www.fleetistics.com
+www.fbkdate.com
+fbkdate.com
 
 # g 
 
