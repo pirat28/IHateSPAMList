@@ -394,6 +394,7 @@ imthumbs.glomex.com
 player-feedback.v1.glomex.com
 player.glomex.com
 glomex.com
+gereterpq.pw
 
 # h
 
@@ -798,7 +799,9 @@ royalforje.icu
 www.royalforje.icu
 mhb5a.royalforje.icu
 m8cdr.royalforje.icu
-
+rapidhostpack.com
+www.rapidhostpack.com
+server.rapidhostpack.com
 
 # s
 
