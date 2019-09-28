@@ -93,6 +93,9 @@ actclic.com
 www.actclic.com
 www.anomob.com
 anomob.com
+helpdesk.adjoema.com
+adjoema.com
+www.adjoema.com
 
 # b
 
@@ -258,6 +261,9 @@ clickmybank.com
 news.coupons4u.de
 caribochorios.com
 c7.caribochorios.com
+rnp.cheapcabslondon.com
+cheapcabslondon.com
+www.cheapcabslondon.com
 
 
 # d
@@ -706,7 +712,8 @@ www.mediawebsolutionsbv.com
 mediawebsolutionsbv.com
 www.mysiingles.com
 mysiingles.com
-
+manifesting.com
+www.manifesting.com
 
 
 # n
