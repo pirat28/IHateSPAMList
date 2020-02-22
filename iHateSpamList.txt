@@ -15,10 +15,13 @@
 ###
 ######################################
 
+######################################
 # On this list because used to forward to 
 # unkown websites or URL shortener
 
 click.dictionary.com
+
+######################################
 
 # 0-9
 
@@ -28,6 +31,8 @@ www.4wei.online
 izrd.683596914.stream
 www.44419.top
 gesundabnehm.1tpego.net
+jjh4.1nosnore-de.com
+1nosnore-de.com
 
 
 # a
@@ -1064,6 +1069,8 @@ main.wir-loesen-das.online
 wir-loesen-das.online
 whatssexy.com
 www.whatssexy.com
+wej85.newbhor.trade
+newbhor.trade
 
 # x
 
@@ -1099,6 +1106,7 @@ you-buy.net
 nl.you-buy.net
 ecp.yusercontent.com
 yusercontent.com
+yummyplaymatesfinder.com
 
 # z
 
