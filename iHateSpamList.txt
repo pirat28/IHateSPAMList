@@ -319,6 +319,9 @@ www.datesmeetic.com
 datesmeetic.com
 www.datingooo.com
 datingooo.com
+ddns.me
+seed.ddns.me
+www.ddns.me
 
 # e
 
@@ -352,6 +355,15 @@ www.eblodate.com
 eblodate.com
 www.elitesinglles.com
 elitesinglles.com
+view.exacttarget.com
+exacttarget.com
+exct.net
+exct.net
+image.exct.net
+cl.exct.net
+www.exct.net
+www.exct.net
+www.express-scripts.com
 
 # f
 
@@ -431,6 +443,9 @@ www.gmxpass.club
 gmxpass.club
 www.grandplaykp.com
 grandplaykp.com
+gemius.pl
+st.hit.gemius.pl
+www.gemius.pl
 
 # h
 
@@ -461,6 +476,8 @@ ktkf.hutafruit.icu
 register.hqentertainmentnetwork.com
 www.hqentertainmentnetwork.com
 hqentertainmentnetwork.com
+www.hubspot.com
+hubspot.com
 
 # i
 
@@ -746,7 +763,9 @@ www.mjconcentrates.co.uk
 mjconcentrates.co.uk
 trk.mclinks.de
 mclinks.de
-
+asset.mijnwebwinkel.nl
+mijnwebwinkel.nl
+www.mijnwebwinkel.nl
 
 # n
 
@@ -817,6 +836,9 @@ emx.pk-guenstig.ltd
 pk-guenstig.ltd
 club.professional-care.online
 professional-care.online
+point2this.com
+box.point2this.com
+www.point2this.com
 
 # q
 www.qb5.ru
