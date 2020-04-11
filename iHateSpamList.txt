@@ -195,6 +195,10 @@ testoultra1a.blogspot.com
 kitchenaid8.blogspot.com
 1.bp.blogspot.com
 ablink.jsrw.brasilia.me
+it.beverenbelin.net
+beverenbelin.net
+www.beverenbelin.net
+lernewundervo.blogspot.com
 
 # c
 
@@ -457,6 +461,7 @@ i.gyazo.com
 www.gyazo.com
 gyazo.com
 assets.guim.co.uk
+goto.pt
 
 # h
 
@@ -696,6 +701,8 @@ lumivn.com
 www.lumivn.com
 a1-s.lumivn.com
 dz6.lumivn.com
+lushlys.in
+www.lushlys.in
 
 # m
 
@@ -777,6 +784,9 @@ mclinks.de
 asset.mijnwebwinkel.nl
 mijnwebwinkel.nl
 www.mijnwebwinkel.nl
+metecanbirsen.com
+www.metecanbirsen.com
+elle.mywire.org
 
 # n
 
@@ -957,6 +967,7 @@ aqnnpm.smallprices.su
 u14578193.ct.sendgrid.net
 ct.sendgrid.net
 sendgrid.net
+gmx.servehumour.com
 
 # t
 
