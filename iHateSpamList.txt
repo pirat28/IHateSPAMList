@@ -211,6 +211,7 @@ boxadava.net
 www.boxadava.net
 clickamazonoffer.blogspot.com
 amazonunsubslink.blogspot.com
+gmx-de.blogspot.com
 
 # c
 
@@ -891,6 +892,9 @@ www.point2this.com
 priind.de
 www.priind.de
 try.pasatideas.nl
+pasatideas.nl
+pasatideas.nl
+picturedhu.com
 
 # q
 www.qb5.ru
