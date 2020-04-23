@@ -568,6 +568,7 @@ kvcomparison.online
 kite21.sg
 keih.space
 www.keih.space
+korturl.dk
 
 # l
 
@@ -730,6 +731,7 @@ gallery63.us18.list-manage5.com
 gallery63.us18.list-manage6.com
 gallery63.us18.list-manage7.com
 gallery63.us18.list-manage8.com
+liveitbright.online
 
 # m
 
@@ -895,6 +897,7 @@ try.pasatideas.nl
 pasatideas.nl
 pasatideas.nl
 picturedhu.com
+wwtmab.pricetabonline.su
 
 # q
 www.qb5.ru
@@ -1074,6 +1077,8 @@ teablackwear.nl
 xznr.thesofit.com
 thesofit.com
 www.thesofit.com
+trator.co
+www.trator.co
 
 # u
 
