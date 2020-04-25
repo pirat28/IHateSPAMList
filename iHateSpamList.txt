@@ -107,7 +107,9 @@ www.adjoema.com
 testing.arcnetinfotech.in
 click.mail.asuonline.asu.edu
 mail.asuonline.asu.edu
-asuonline.asu.edu
+asuonline.asu.ed
+www.avicenna.ac.ir
+avicenna.ac.ir/
 
 # b
 
@@ -212,6 +214,10 @@ www.boxadava.net
 clickamazonoffer.blogspot.com
 amazonunsubslink.blogspot.com
 gmx-de.blogspot.com
+valdamirmputin.blogspot.com
+haybbvarez.blogspot.com
+amazon3cpcunsub.blogspot.com
+cpc3amazon.blogspot.com
 
 # c
 
@@ -732,6 +738,16 @@ gallery63.us18.list-manage6.com
 gallery63.us18.list-manage7.com
 gallery63.us18.list-manage8.com
 liveitbright.online
+amazfit.us4.list-manage.com
+amazfit.us4.list-manage1.com
+amazfit.us4.list-manage2.com
+amazfit.us4.list-manage3.com
+amazfit.us4.list-manage4.com
+amazfit.us4.list-manage5.com
+amazfit.us4.list-manage6.com
+amazfit.us4.list-manage7.com
+amazfit.us4.list-manage8.com
+
 
 # m
 
@@ -818,6 +834,8 @@ www.metecanbirsen.com
 elle.mywire.org
 mystivic.de
 www.mystivic.de
+mediascooter.ru
+www.mediascooter.ru
 
 # n
 
@@ -1150,6 +1168,8 @@ mailmx1.versicherung-aktuell.online
 versicherung-aktuell.online
 vitrfitness.icu
 qpd.vitrfitness.icu
+vriendensurinaamseatletiek.nl
+www.vriendensurinaamseatletiek.nl
 
 # w
 
@@ -1206,6 +1226,8 @@ r.news.xilisoft.com
 xilisoft.com
 xieh.fun
 www.xieh.fun
+www.xeak.site
+xeak.site
 
 # y
 
