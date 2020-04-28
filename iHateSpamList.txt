@@ -109,7 +109,8 @@ click.mail.asuonline.asu.edu
 mail.asuonline.asu.edu
 asuonline.asu.ed
 www.avicenna.ac.ir
-avicenna.ac.ir/
+avicenna.ac.ir
+email.artistsnetwork.com
 
 # b
 
@@ -747,7 +748,7 @@ amazfit.us4.list-manage5.com
 amazfit.us4.list-manage6.com
 amazfit.us4.list-manage7.com
 amazfit.us4.list-manage8.com
-
+lovelcharmes.nl
 
 # m
 
@@ -1207,6 +1208,7 @@ newbhor.trade
 main.cdn.wish.com
 wish.com
 www.wish.com
+shoutout.wix.com
 
 # x
 
