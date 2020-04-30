@@ -1171,6 +1171,8 @@ vitrfitness.icu
 qpd.vitrfitness.icu
 vriendensurinaamseatletiek.nl
 www.vriendensurinaamseatletiek.nl
+veix.host
+www.veix.host
 
 # w
 
@@ -1230,6 +1232,8 @@ xieh.fun
 www.xieh.fun
 www.xeak.site
 xeak.site
+www.xeam.space
+xeam.space
 
 # y
 
