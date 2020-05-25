@@ -1205,6 +1205,7 @@ www.vriendensurinaamseatletiek.nl
 veix.host
 www.veix.host
 ablink.info.vivaaerobus.com
+vurf.pw
 
 # w
 
@@ -1246,6 +1247,7 @@ shoutout.wix.com
 rl5656.wickes.co.uk
 wickes.co.uk
 wubj.host
+warm.wnxyz.de
 
 # x
 
