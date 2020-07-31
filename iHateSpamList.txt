@@ -461,6 +461,9 @@ reactive.frtison.be
 frtison.be
 feax.fun
 www.feax.fun
+z59yz.filinhost.com
+filinhost.com
+www.filinhost.com
 
 # g 
 
@@ -967,6 +970,7 @@ picturedhu.com
 wwtmab.pricetabonline.su
 bkkugo.pleasegrilledcheese.com
 pxlme.me
+www.powerball.com
 
 # q
 www.qb5.ru
@@ -1093,6 +1097,7 @@ u16740291.ct.sendgrid.net
 u17375891.ct.sendgrid.net
 hekhbadr901.shortcm.li
 stpr.space
+u17819900.ct.sendgrid.net
 
 # t
 
@@ -1174,6 +1179,10 @@ unitedstatesonlinesportsbetting.com
 www.unitedstatesonlinesportsbetting.com
 uidbox.uimserv.net
 upzh.website
+www.uzmetallsavdo.uz
+uzmetallsavdo.uz
+www.uzmetall.uz
+uzmetall.uz
 
 # v
 
