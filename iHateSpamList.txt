@@ -332,6 +332,7 @@ cslb.creatormail.co.uk
 creatormail.co.uk
 www.cnthai.cn
 cnthai.cn
+google.com__facebook.com
 
 # d
 
@@ -1020,6 +1021,7 @@ refurbishedware.de
 www.refurbishedware.de
 nl.refurbishedware.de
 a.rs6.net
+distinctioccbi.relaxedlife.de
 
 # s
 
