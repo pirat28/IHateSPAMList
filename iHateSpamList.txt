@@ -205,7 +205,7 @@ beringkas.site
 redirecting1swiss.blogspot.com
 testoultra1a.blogspot.com
 kitchenaid8.blogspot.com
-1.bp.blogspot.com
+# 1.bp.blogspot.com
 ablink.jsrw.brasilia.me
 it.beverenbelin.net
 beverenbelin.net
@@ -229,7 +229,7 @@ gmxoutput.blogspot.com
 gmxredirect.blogspot.com
 bnawwdraze.blogspot.com
 sarahcbd2link.blogspot.com
-4.bp.blogspot.com
+# 4.bp.blogspot.com 
 nodkasnn.blogspot.com
 ansfakera.blogspot.com
 bieb.website
