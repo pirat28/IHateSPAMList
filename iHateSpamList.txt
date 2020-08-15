@@ -25,6 +25,11 @@ click.dictionary.com
 
 ######################################
 
+# IPs
+
+146.196.67.94
+
+
 # 0-9
 
 3d-infitec.ru
@@ -470,6 +475,7 @@ www.filinhost.com
 google.com__facebook.com
 microsoft.com__facebook.com
 btcdehhomegmx.freedynamicdns.org
+cbdhomedeoil.freedynamicdns.net
 
 # g 
 
