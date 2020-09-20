@@ -349,6 +349,7 @@ repellathnmi.casualfrugal.de
 porroiyrk.casualfrugal.de
 www.casualfrugal.de
 casualfrugal.de
+cocoond.de
 
 # d
 
@@ -582,6 +583,7 @@ hamhonar.com
 p-afm.hamhonar.com
 qsqh2.hamhonar.com
 etting.hohensk.vip
+hohensk.vip
 
 # i
 
@@ -1137,6 +1139,8 @@ u17819900.ct.sendgrid.net
 www.seekvisse.live
 seekvisse.live
 dargbtcgmxhomede14.serveminecraft.net
+sedmrdg.skilldrill.de
+skilldrill.de
 
 # t
 
