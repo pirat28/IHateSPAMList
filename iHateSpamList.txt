@@ -256,6 +256,9 @@ nobru77.blogspot.com
 never.balizore.com
 ahwanssa.blogspot.com
 azretyani.blogspot.com
+gmx.belarow.com
+belarow.com
+www.belarow.com
 
 # c
 
@@ -490,6 +493,7 @@ microsoft.com__facebook.com
 btcdehhomegmx.freedynamicdns.org
 cbdhomedeoil.freedynamicdns.net
 normalgmxde.freedynamicdns.org
+vps2022109.fastwebserver.de
 
 # g 
 
@@ -1149,6 +1153,10 @@ click.em.samsclub.com
 em.samsclub.com
 samsclub.com
 www.samsclub.com
+starkcanny.blue
+www.starkcanny.blue
+www.seminaria.gr
+seminaria.gr
 
 # t
 
@@ -1402,4 +1410,5 @@ www2.zigarettenbestellen.club
 zharewardss.com
 www.zeaude.de
 zeaude.de
-
+ztzg.online
+www.ztzg.online
