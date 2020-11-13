@@ -497,6 +497,7 @@ btcdehhomegmx.freedynamicdns.org
 cbdhomedeoil.freedynamicdns.net
 normalgmxde.freedynamicdns.org
 vps2022109.fastwebserver.de
+vps2040325.fastwebserver.de
 
 # g 
 
@@ -555,6 +556,7 @@ zfgbxkotjxujhmpo.storage.googleapis.com
 deydgyehwsptekn.storage.googleapis.com
 cstlqrgnqmjztbxjmkp.storage.googleapis.com
 ibpodtjfrfkwkjm.storage.googleapis.com
+gmxwinnertoday.online
 
 # h
 
@@ -1162,6 +1164,7 @@ starkcanny.blue
 www.starkcanny.blue
 www.seminaria.gr
 seminaria.gr
+u19261661.ct.sendgrid.net
 
 # t
 
