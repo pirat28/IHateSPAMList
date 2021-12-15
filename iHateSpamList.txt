@@ -19,7 +19,7 @@
 
 ######################################
 # On this list because used to forward to 
-# unkown websites or URL shortener
+# unknown websites or URL shortener
 
 click.dictionary.com
 
@@ -458,6 +458,7 @@ www.entradassagradafamilia.es
 EXFspcxaCjdGqgXItZWNUqhsHWuvfx.iJuOcJQzKtJOZZUXIoWEbQUjiCfDXka.emailnewspro.com
 iJuOcJQzKtJOZZUXIoWEbQUjiCfDXka.emailnewspro.com
 emailnewspro.com
+beotura.edukacija21.com
 
 # f
 
@@ -505,6 +506,9 @@ cbdhomedeoil.freedynamicdns.net
 normalgmxde.freedynamicdns.org
 vps2022109.fastwebserver.de
 vps2040325.fastwebserver.de
+xefstcrgmita.famicr.xyz
+giesugworuia.famicr.xyz
+famicr.xyz
 
 # g 
 
@@ -1087,6 +1091,8 @@ www.refurbishedware.de
 nl.refurbishedware.de
 a.rs6.net
 distinctioccbi.relaxedlife.de
+xxyhmhienwhu.roostar.xyz
+frovtfbpcknv.roostar.xyz
 
 # s
 
@@ -1250,6 +1256,7 @@ www.trator.co
 tnsg.fun
 www.trystay.de
 trystay.de
+
 
 # u
 
